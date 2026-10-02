@@ -1,0 +1,16 @@
+{
+  "name": "context-aquarium",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "The context window as a fish tank above the prompt: each tool result drops in a fish sized by its tokens, and the water murks as compaction nears. /context-aquarium toggles it."
+  },
+  "plugins": [
+    {
+      "name": "context-aquarium",
+      "source": "./",
+      "description": "The context window as a fish tank above the prompt: each tool result drops in a fish sized by its tokens, and the water murks as compaction nears. /context-aquarium toggles it."
+    }
+  ]
+}

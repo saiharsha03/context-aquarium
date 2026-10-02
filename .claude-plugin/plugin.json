@@ -1,0 +1,13 @@
+{
+  "name": "context-aquarium",
+  "version": "0.1.0",
+  "description": "The context window as a fish tank above the prompt: each tool result drops in a fish sized by its tokens, and the water murks as compaction nears. /context-aquarium toggles it.",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "types": "./types/index.d.ts",
+  "displayName": "Context Aquarium",
+  "homepage": "https://github.com/saiharsha03/context-aquarium",
+  "repository": "https://github.com/saiharsha03/context-aquarium",
+  "license": "MIT"
+}
